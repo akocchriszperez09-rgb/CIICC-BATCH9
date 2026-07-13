@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Your Name</h1>
+<h1 align="center">Hi 👋, I'm CHRIS</h1>
 <h3 align="center">A passionate developer building cool things on the web</h3>
 
 <p align="center">
@@ -11,12 +11,12 @@
 
 ### 🚀 About Me
 
-- 🔭 I'm currently working on **[Project Name]**
-- 🌱 I'm currently learning **[Technology/Skill]**
-- 👯 I'm looking to collaborate on **[Type of Project]**
-- 💬 Ask me about **[Your Expertise]**
-- 📫 How to reach me: **you@example.com**
-- ⚡ Fun fact: **[Something interesting about you]**
+- 🔭 I'm currently working on **JAVA PROGRAMMING NCIII**
+- 🌱 I'm currently learning **JAVA PROGRAMMING NCIII**
+- 👯 I'm looking to collaborate on **TESLA and IBM**
+- 💬 Ask me about **JAVA**
+- 📫 How to reach me: **chris.perez@eclaro.academy**
+- ⚡ Fun fact: **Surpriseeee**
 
 ---
 
