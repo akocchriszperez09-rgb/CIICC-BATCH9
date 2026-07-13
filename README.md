@@ -70,4 +70,4 @@ Short description of what this project does and the problem it solves.
 
 Feel free to reach out if you'd like to collaborate, have a question, or just want to say hi!
 
-<p align="center">⭐️ From <a href="https://github.com/yourusername">akocchriszperez09-rgb</a></p>
+<p align="center">⭐️ From <a href="https://github.com/yourusername">akocchriszperez09</a></p>
