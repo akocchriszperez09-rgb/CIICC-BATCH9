@@ -70,4 +70,4 @@ Short description of what this project does and the problem it solves.
 
 Feel free to reach out if you'd like to collaborate, have a question, or just want to say hi!
 
-<p align="center">⭐️ From <a href="https://github.com/yourusername">yourusername</a></p>
+<p align="center">⭐️ From <a href="https://github.com/yourusername">Chris Perez</a></p>
