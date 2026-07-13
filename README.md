@@ -13,10 +13,10 @@
 
 - 🔭 I'm currently working on **JAVA PROGRAMMING NCIII**
 - 🌱 I'm currently learning **JAVA PROGRAMMING NCIII**
-- 👯 I'm looking to collaborate on **TESLA and IBM**
-- 💬 Ask me about **JAVA**
+- 👯 I'm looking to collaborate on **TESDA and TESLA**
+- 💬 Ask me about **JAVA,JavaScript,C++,C#**
 - 📫 How to reach me: **chris.perez@eclaro.academy**
-- ⚡ Fun fact: **Surpriseeee**
+- ⚡ Fun fact: **I code better when im hungry**
 
 ---
 
